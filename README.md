@@ -4,7 +4,7 @@ Este repositório contém meus projetos e exemplos práticos enquanto estudo Jav
 
 ## 📁 Estrutura
 
-- `poo/`: Projetos relacionados a Programação Orientada a Objetos
+- `poo`: Projetos relacionados a Programação Orientada a Objetos
     - `CadastroProdutos.java`: Exemplo prático com adição e listagem de produtos.
 
 ## 📌 Objetivo
